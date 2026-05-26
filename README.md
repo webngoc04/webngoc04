@@ -1,83 +1,93 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Nunito&weight=700&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+KeiChan+%F0%9F%96%B7%EF%B8%8F;Linux+Kernel+hacker;Web+developer;Open+source+enthusiast">
-    <img src="https://readme-typing-svg.demolab.com/?font=Nunito&weight=700&size=28&pause=1000&color=E11D48&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+KeiChan+%F0%9F%96%B7%EF%B8%8F;Linux+Kernel+hacker;Web+developer;Open+source+enthusiast" alt="Typing SVG">
-  </picture>
-</div>
+## 🩷 Hi, I'm KeiChan
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_dark.svg">
-    <img src="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_light.svg" width="400">
-  </picture>
-</div>
+chỉ là dev thích vọc **kernel Linux** và làm web thoi <3
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <h3>🌸 About Me</h3>
-        <p align="left">
-          chỉ là dev thích vọc <b>kernel Linux</b> và làm web thoi &lt;3
-        </p>
-        <p align="left">
-          🐧 <b>Linux Kernel</b> — system programming, kernel modules<br>
-          🌐 <b>Web</b> — React, Next.js, TypeScript<br>
-          🦀 <b>Rust</b> — đang học, chắc chắn sẽ viết kernel driver bằng Rust<br>
-          💖 <b>Open source</b> — contribute linh tinh cho vui
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=webngoc04&show_icons=true&theme=transparent&hide_border=true&icon_color=F472B6&title_color=F472B6&text_color=94A3B8&count_private=true" width="100%">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webngoc04&layout=compact&theme=transparent&hide_border=true&title_color=F472B6&text_color=94A3B8" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
+```
+🐧 Linux Kernel  — system programming, kernel modules
+🌐 Web           — React, Next.js, TypeScript
+🦀 Rust          — đang học, chắc chắn sẽ viết kernel driver bằng Rust
+💖 Open source   — contribute linh tinh cho vui
+```
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_dark.svg">
-    <img src="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_light.svg" width="400">
-  </picture>
-</div>
+---
 
-<h3 align="center">💻 Tech Stack</h3>
+### 💻 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,rust,ts,py,bash,linux,arch,neovim,git,docker,react,nextjs,tailwind,nodejs&perline=7" alt="skills">
-</div>
+`C` `Rust` `TypeScript` `Python` `Bash` `Linux` `Arch` `Neovim`
+`Git` `Docker` `React` `Next.js` `Tailwind CSS` `Node.js`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_dark.svg">
-    <img src="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_light.svg" width="400">
-  </picture>
-</div>
+---
 
-<h3 align="center">📫 Contact</h3>
+### 🔐 GPG Public Key
 
-<div align="center">
-  <a href="https://github.com/webngoc04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-webngoc04-F472B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e">
-  </a>
-  <a href="mailto:kei@webngoc04.dev">
-    <img src="https://img.shields.io/badge/Email-kei@webngoc04.dev-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e">
-  </a>
-</div>
+```
+Fingerprint: 012F C938 02BA C1FE 39D0  DC2D E016 3CBB 19B5 FFC1
+Email:       dangnguyenngoc04@gmail.com
+```
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_dark.svg">
-    <img src="https://raw.githubusercontent.com/webngoc04/webngoc04/main/assets/divider_light.svg" width="400">
-  </picture>
-</div>
+```ascii
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<div align="center">
-  <p>🩷 <i>mãi iu bạn</i> 🩷</p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=webngoc04&label=visitors&countColor=%23F472B6&labelStyle=upper">
-    <img src="https://api.visitorbadge.io/api/visitors?path=webngoc04&label=visitors&countColor=%23E11D48&labelStyle=upper" alt="visitors">
-  </picture>
-</div>
+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
+=ySEN
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+---
+
+### 📫 Contact
+
+- GitHub: [webngoc04](https://github.com/webngoc04)
+- Email: `dangnguyenngoc04@gmail.com`
+- GPG: `012F C938 02BA C1FE 39D0  DC2D E016 3CBB 19B5 FFC1`
+
+---
+
+<p align="center">🩷 <i>mãi iu bạn</i> 🩷</p>
