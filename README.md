@@ -1,20 +1,90 @@
-## 🩷 Hi, I'm KeiChan
+# 👩‍💻 Hi there, I'm KeiChan! ✨
 
-chỉ là dev thích vọc **kernel Linux** và làm web thoi <3
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F81CE5&center=true&vCenter=true&width=600&lines=Software+Engineer;Linux+Kernel+Enthusiast;React+%26+Next.js+Developer;Rust+Explorer+%F0%9F%A6%80" alt="Typing SVG" />
+</p>
 
-```
-🐧 Linux Kernel  — system programming, kernel modules
-🌐 Web           — React, Next.js, TypeScript
-🦀 Rust          — đang học, chắc chắn sẽ viết kernel driver bằng Rust
-💖 Open source   — contribute linh tinh cho vui
-```
+<p align="center">
+  <a href="https://github.com/webngoc04">
+    <img src="https://img.shields.io/github/followers/webngoc04?label=Followers&style=social" />
+  </a>
+  <a href="mailto:dangnguyenngoc04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dangnguyenngoc04%40gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack
+### 🚀 About Me
 
-`C` `Rust` `TypeScript` `Python` `Bash` `Linux` `Arch` `Neovim`
-`Git` `Docker` `React` `Next.js` `Tailwind CSS` `Node.js`
+I'm a passionate software engineer who loves bridging the gap between high-level web interfaces and low-level system kernels.
+
+- 🐧 **Linux Kernel:** Deep diving into system programming and writing custom kernel modules.
+- 🌐 **Web Frontend:** Designing & building sleek, responsive, and cute user interfaces using React, Next.js, and TypeScript.
+- 🦀 **Rust:** Currently learning Rust and building drivers to explore modern low-level systems.
+- 💼 **Current Role:** Developer at **MoeBook**.
+- 🌱 Always experimenting, breaking things to learn, and contributing to open source.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br />C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+      <br />Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br />Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" />
+      <br />Neovim
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webngoc04&show_icons=true&theme=radical&count_private=true" alt="KeiChan's Stats" width="430" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webngoc04&theme=radical" alt="KeiChan's Streak" width="430" />
+</p>
 
 ---
 
@@ -82,12 +152,8 @@ IlQ6TRwLcDATmd/MNP2p/DLXnQXfOpxKqIiNQgzW
 
 ---
 
-### 📫 Contact
-
-- GitHub: [webngoc04](https://github.com/webngoc04)
-- Email: `dangnguyenngoc04@gmail.com`
-- GPG: `012F C938 02BA C1FE 39D0  DC2D E016 3CBB 19B5 FFC1`
-
----
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?id=webngoc04&color=deeppink&style=flat-square&label=Profile+Views" alt="profile views" />
+</p>
 
 <p align="center">🩷 <i>mãi iu bạn</i> 🩷</p>
