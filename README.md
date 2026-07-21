@@ -10,8 +10,8 @@
   <a href="https://github.com/webngoc04">
     <img src="https://img.shields.io/github/followers/webngoc04?label=Followers&style=social" />
   </a>
-  <a href="mailto:dangnguyenngoc04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dangnguyenngoc04%40gmail.com-blue?style=flat-square&logo=gmail" />
+  <a href="mailto:tarisu.international@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tarisu.international%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ I'm a passionate software engineer who loves bridging the gap between high-level
 
 ```
 Fingerprint: 012F C938 02BA C1FE 39D0  DC2D E016 3CBB 19B5 FFC1
-Email:       dangnguyenngoc04@gmail.com
+Email:       tarisu.international@gmail.com
 ```
 
 ```ascii
