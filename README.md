@@ -1,4 +1,6 @@
-# 👩‍💻 Hi there, I'm KeiChan! ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20KeiChan&fontSize=65&animation=fadeIn&fontColor=ffffff" alt="Header Wave" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F81CE5&center=true&vCenter=true&width=600&lines=Software+Engineer;Linux+Kernel+Enthusiast;React+%26+Next.js+Developer;Rust+Explorer+%F0%9F%A6%80" alt="Typing SVG" />
@@ -20,68 +22,47 @@
 I'm a passionate software engineer who loves bridging the gap between high-level web interfaces and low-level system kernels.
 
 - 🐧 **Linux Kernel:** Deep diving into system programming and writing custom kernel modules.
-- 🌐 **Web Frontend:** Designing & building sleek, responsive, and cute user interfaces using React, Next.js, and TypeScript.
+- 🌐 **Web Frontend:** Designing & building sleek, responsive user interfaces using React, Next.js, and TypeScript.
 - 🦀 **Rust:** Currently learning Rust and building drivers to explore modern low-level systems.
 - 💼 **Current Role:** Developer at **MoeBook**.
 - 🌱 Always experimenting, breaking things to learn, and contributing to open source.
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Languages & Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br />C
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
-      <br />Rust
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br />Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
-      <br />Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" />
-      <br />Neovim
-    </td>
-  </tr>
-</table>
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+#### 🌐 Web Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+#### ⚙️ Systems & Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webngoc04&show_icons=true&theme=radical&count_private=true" alt="KeiChan's Stats" width="430" />
+  <img src="https://github-readme-stats.shion.dev/api?username=webngoc04&show_icons=true&theme=radical&count_private=true" alt="KeiChan's Stats" width="430" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webngoc04&theme=radical" alt="KeiChan's Streak" width="430" />
 </p>
@@ -156,4 +137,4 @@ IlQ6TRwLcDATmd/MNP2p/DLXnQXfOpxKqIiNQgzW
   <img src="https://komarev.com/normal-badge.png?id=webngoc04&color=deeppink&style=flat-square&label=Profile+Views" alt="profile views" />
 </p>
 
-<p align="center">🩷 <i>mãi iu bạn</i> 🩷</p>
+<p align="center">🩷 <i>always in love with code</i> 🩷</p>
